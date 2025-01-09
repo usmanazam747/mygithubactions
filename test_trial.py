@@ -4,5 +4,5 @@ def test_foo():
     print(expected_foo_result)
     print(1)
 
-def test_two()
+def test_two():
 print("hello")
