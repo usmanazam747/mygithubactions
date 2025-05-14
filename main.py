@@ -1,5 +1,5 @@
 def hello():
-    print("hi")
+    print("hi what's up")
 
 
 def bye():
